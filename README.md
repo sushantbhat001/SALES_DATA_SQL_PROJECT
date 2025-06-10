@@ -19,4 +19,4 @@ This project simulates a mock company's retail sales system by creating a databa
 - `queries.sql`: Contains analysis queries.
 
 ## Contact
-Sushant Bhat | 6006239128
+Sushant Bhat | sushantbhat001@gmail.com
