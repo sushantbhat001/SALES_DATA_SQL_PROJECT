@@ -18,5 +18,5 @@ This project simulates a mock company's retail sales system by creating a databa
 - `insert_data.sql`: Contains sample data insert commands.
 - `queries.sql`: Contains analysis queries.
 
-## Author
-Riya Bisht
+## Contact
+Sushant Bhat | 6006239128
